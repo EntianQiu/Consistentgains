@@ -1,6 +1,7 @@
 # consistentgains
-
 A simple workout tracker designed to make logging gym sessions quick and low-friction.
+
+Development note: This project was developed using AI-assisted coding (often referred to as "vibe coding"). I designed the features and iterated on the application, using AI tools to help generate and modify the code.
 
 ## Version History
 
